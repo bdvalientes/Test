@@ -9,7 +9,7 @@ Exposicion de servicio **API REST**. Permite agrupar un list por edad y ordenar 
  - PROXIMAMENTE
 
 
-Retorna List agrupada por edad y ordenada por nombre
+Retorna List agrupada por edad
 ```
  http://localhost:7010/test/personGroup
 ```
